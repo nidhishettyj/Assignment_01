@@ -4,7 +4,7 @@
         box-sizing: border-box;
         padding:12px;
         margin:0 500px;
-        border: 30px solid rgb(88, 184, 88);
+        border: 30px solid rgb(83, 182, 83);
         color: rgb(138, 135, 135);
 
     }
@@ -25,7 +25,7 @@
   font-size: 16px;
   box-sizing: border-box;
   resize: vertical;
-  padding: 0px 10px 5px 10px;
+  padding: 0px 12px 5px 12px;
 }
 
 
@@ -78,4 +78,8 @@ input[type=text], select, textarea {
     color: white;
   }
 
-  
+  #wrapper
+  {
+  width: 550px;
+  position:relative;
+  }     
